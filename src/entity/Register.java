@@ -43,7 +43,7 @@ public class Register implements Runnable {
                 numberOfincedence++;
             }
         }
-        System.out.println ("It was " + numberOfCustomers + " customres" + " and it tooks " + totalTime + " seconds." + " Number of incedence is " + numberOfincedence + ".");
+        System.out.println ("It was " + numberOfCustomers + " customres" + " and it tooks " + totalTime + " seconds." + " Number of incedent is " + numberOfincedence + ".");
     }
 
 
